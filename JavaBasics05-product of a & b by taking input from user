@@ -1,0 +1,17 @@
+//write a code in java to product of two numbers taking input from the user
+import java.util.*;
+public class Day14 {
+public static void main(String args []) {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("enter first value"); //inform user to enter first value which they want to product
+    float A = sc.nextFloat(); // for float data types we use sc . nextFloat
+    System.out.print("enter second value"); //say user to enter their second value
+    float B = sc.nextFloat();
+    System.out.println("product ");
+    float product = A*B;
+    System.out.print(product);
+
+
+
+}
+}
