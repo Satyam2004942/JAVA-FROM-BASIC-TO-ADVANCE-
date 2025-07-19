@@ -1,0 +1,11 @@
+/*print a pattern  *****
+                    ****
+                    ***
+                     **
+                      *       */
+                   
+public class JavaBasics02 {
+    public static void main(String[] args) {
+        System.out.println("*****\n" + "****\n" + "***\n" + "**\n" + "*"); // /n is considerd as println in java which is used to add new blank line after printing something 
+    }
+}
