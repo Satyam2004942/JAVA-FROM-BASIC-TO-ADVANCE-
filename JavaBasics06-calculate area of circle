@@ -1,0 +1,13 @@
+//write a code in java to calculate area of a cricle and take input from keyboard
+import java.util.*;
+public class JavaBasics05{ // for use this code please make file name JavaBasics06 because file name and class name should be same 
+    public static void main(String args[]) {
+//        Scanner sc = new Scanner (System.in); // use to take input from the user through keyboard 
+//        System.out.println("enter radius of the circle");
+//        float r = sc . nextFloat();
+//float area = 3.14f*r*r; //formula to calculate area of the circle 
+//System . out . println("area of the circle is");
+//System.out.print(area); //print area of the circle 
+      
+    }
+}
