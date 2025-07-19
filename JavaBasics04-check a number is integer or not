@@ -1,0 +1,10 @@
+//check the value is integer or not by taking input from the user
+import java.util.*; // a package in Java which allow us to use Scanner class or other classes which stored in util paclage 
+public class JavaBasics04 {
+    public static void main (String args[]) {
+        Scanner sc = new Scanner(System.in); //a class in Java which allow us to take input from the user
+        System.out.println("enter value");
+        boolean b1 = sc. hasNextInt();  //has next int is used to check if the value is integer or not same we use has next float etc
+        System.out.println(b1); //Boolean data types gives result as if the value is true or not 
+    }
+}
