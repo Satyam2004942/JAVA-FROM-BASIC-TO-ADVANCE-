@@ -1,0 +1,9 @@
+//sum of a & b if a = 10 & b = 5
+public class JavaBasics03{
+    public static void main(String args[]){
+        byte a = 10; //java is a statically typed programming language so firstly we have to declare data types beofre using it into a variable 
+        byte b = 5;
+        int sum = a+b;
+        System.out.print(sum);
+    }
+}
