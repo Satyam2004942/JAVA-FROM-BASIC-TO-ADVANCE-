@@ -1,0 +1,3 @@
+public class javaBasics1 { //first we have to make class before writing our java program it is the part of our boilerplate code everytime we write program in java we have to write boilerplate code nd class name must be same as file name 
+public static void main(String args[]) { //main function is also part of boilerplate code it is the starting point of our java program. first our compiler finds main fn before executing a java program 
+System.out.println("Hello Github"); //use to take output 
